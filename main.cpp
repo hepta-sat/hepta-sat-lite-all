@@ -9,5 +9,6 @@ int main() {
     myled = 0;
     wait(0.2);
     //test
+    //Lab1-02_create_satellite_program_step1_a
   }
 }
